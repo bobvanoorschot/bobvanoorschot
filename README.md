@@ -1,8 +1,5 @@
 # Hi,
 
-- 👀 I’m looking for a new challenge
-- 🌱 In the mean while I'm upgrading old repo's
-
 - look at [my website](https://bobvanoorschot.com)
 
 <!---
